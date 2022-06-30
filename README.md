@@ -1,9 +1,7 @@
 =Sobre mim
-
-- 👋 Hi, I’m @bilobramtai..
+-Hi,I´m @bilobramtaina
 -meu email de contato bilobram.taina@rscola.pr.gov.br
-
-<!---
-bilobramtaina/bilobramtaina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-eu estou interesada em aprender a programar novas linguagens
+.
 You can click the Preview link to take a look at your changes.
 --->
